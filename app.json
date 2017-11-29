@@ -14,5 +14,5 @@
 	"env": {
 		
 	},
-	"stack": "cedar-16"
+	"stack": "heroku-16"
 }
