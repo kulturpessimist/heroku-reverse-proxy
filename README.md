@@ -4,7 +4,7 @@ Run a reverse proxy using nginx on Heroku.
 
 ## Installation
 
-...
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Credits
 
