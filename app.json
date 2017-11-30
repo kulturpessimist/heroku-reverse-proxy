@@ -12,7 +12,13 @@
 		}
 	],
 	"env": {
-		
+		"USERNAME": {
+			"description": "Username for authentication"
+		},
+		"PASSWORD": {
+			"description": "Password for authentication"
+		}
+
 	},
 	"stack": "cedar-14"
 }
